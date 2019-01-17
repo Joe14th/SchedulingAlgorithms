@@ -1,0 +1,13 @@
+-rw------- 1 duv590 students 44344515 Feb 16 15:17 fcfs.all
+-rw------- 1 duv590 students 42267264 Feb 16 15:18 psjf.all
+-rw------- 1 duv590 students 46495936 Feb 16 15:18 rr.all
+-rw------- 1 duv590 students 43243799 Feb 16 15:18 sjf.all
+  2000001   2000003  44344515 fcfs.all
+  2000001   2000003  42267264 psjf.all
+  2000001   2000003  46495936 rr.all
+  2000001   2000003  43243799 sjf.all
+  8000004   8000012 176351514 total
+3244cd0f5e0828e328b3f89279382cb0  fcfs.all
+9a0358510d4fd8acda66a28599002776  psjf.all
+79bae3eed81d4d7f4c7dc77ad76b6bcf  rr.all
+bb53fde7df503364e5598013a23640ca  sjf.all

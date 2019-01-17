@@ -1,0 +1,5 @@
+FCFS (completed)
+SJF (compelted)
+PSJF (completed)
+RR (completed)
+All functions passed the test.

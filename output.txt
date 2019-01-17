@@ -1,0 +1,7 @@
+Assignment 1 program was written by Jasmine Ramirez
+inputs: 0 4 2 7 3 6 5
+
+Part 1
+RRRRwwrRRRRRRR
+rrrrRRRwwwwwwrRRRRR
+1 5 3.0 1.00000
